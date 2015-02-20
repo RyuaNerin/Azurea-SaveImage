@@ -5,6 +5,11 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZSaveImage", "AZSaveImage\AZSaveImage.csproj", "{8D9FE0B1-8D2B-4E90-985E-68950371A08D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Script", "Script", "{2B321577-6EE7-4A40-95B0-08AC433E7139}"
+	ProjectSection(SolutionItems) = preProject
+		Preview.js = Preview.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
